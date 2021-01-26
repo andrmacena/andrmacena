@@ -4,7 +4,7 @@
 let aboutme = {
    name: 'André',
    email: 'andrmacena@outlook.com',
-   graduated: 'computer science'
+   graduated: 'computer science',
    nickname: 'andrmacena',
    role: 'backend developer',
    goals: 'play as a nodejs developer', 'share my knowledge', 'learn more about the nodejs stack',
