@@ -8,7 +8,7 @@ let aboutme = {
    nickname: 'andrmacena',
    role: 'backend developer',
    goals: 'play as a .net developer', 'share my knowledge', 'learn more about the .net framework',
-   currentlyLearning: 'nodejs',
+   currentlyLearning: '.net core', 'aws cloud',
    skills: {
       c#: true,
       agileMethodologies: true,
