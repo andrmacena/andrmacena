@@ -7,10 +7,10 @@ let aboutme = {
    graduated: 'computer science',
    nickname: 'andrmacena',
    role: 'backend developer',
-   goals: 'play as a nodejs developer', 'share my knowledge', 'learn more about the nodejs stack',
+   goals: 'play as a .net developer', 'share my knowledge', 'learn more about the .net framework',
    currentlyLearning: 'nodejs',
    skills: {
-      nodejs: true,
+      c#: true,
       agileMethodologies: true,
       sql: true,
       git: true
