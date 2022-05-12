@@ -3,7 +3,7 @@
 ``` Javascript
 let aboutme = {
    name: 'André',
-   email: 'andrmacena@outlook.com',
+   email: 'andrmacena_@outlook.com',
    graduated: 'computer science',
    nickname: 'andrmacena',
    role: 'backend developer',
